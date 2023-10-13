@@ -1,0 +1,34 @@
+
+
+{
+    "platillos": [
+      {
+        "nombre": "Elisyum",
+        "descripcion": "Carne de res a la parrilla con lechuga, tomate y queso cheddar en un pan recién horneado.",
+        "precio": 10.99,
+        "ingredientes": ["Carne de res", "Lechuga", "Tomate", "Queso cheddar", "Pan"]
+      },
+      {
+        "nombre": "Bienmesabe",
+        "descripcion": "Salsa de tomate, mozzarella fresca y albahaca sobre una masa fina y crujiente.",
+        "precio": 12.99,
+        "ingredientes": ["Salsa de tomate", "Mozzarella fresca", "Albahaca", "Masa"]
+      },
+      {
+        "nombre": "sunshulla",
+        "descripcion": "Lechuga romana, pollo a la parrilla, parmesano rallado y crutones de pan con aderezo César.",
+        "precio": 8.99,
+        "ingredientes": ["Lechuga romana", "Pollo a la parrilla", "Parmesano rallado", "Crutones de pan", "Aderezo César"]
+      },
+      {
+        "nombre": "Hamburguesa",
+        "descripcion": "Hamburguesa de carne con lechuga, tomate, queso y salsa especial.",
+        "precio": 8.99,
+        "ingredientes": ["carne de res", "lechuga", "tomate", "queso", "pan de hamburguesa", "salsa especial"]
+      }
+
+
+
+    ]
+  }
+  
